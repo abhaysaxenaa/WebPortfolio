@@ -1,0 +1,56 @@
+.hero {
+    background-image: url(../../assets/blue.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.title {
+    font-weight: 1000;
+    font-size: 72px;
+    color: whitesmoke;
+}
+
+.subtitle {
+    font-weight: 1000;
+    font-size: 30px;
+}
+
+img {
+    opacity: 0.88;
+    border-radius: 7cm;
+}
+
+p {
+    color: whitesmoke;
+    font-weight: 700;
+    font-size: large;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 16px;
+    color: whitesmoke;
+    
+}
+
+h3 {
+    font-weight: 1000;
+    font-size: 25px;
+}
+
+h4{
+    font-style: italic;
+    font-size: 18px
+}
+
+h5 {
+    font-weight: 1000;
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+h6 {
+    font-size: 20px;
+    font-weight: 1000;
+    color: whitesmoke;
+}
